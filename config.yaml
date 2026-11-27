@@ -1,0 +1,12 @@
+# Metrics for client API analysis
+client_api_metrics:
+  hhi:
+  nakamoto_coefficient:
+  entropy:
+    - 1
+  concentration_ratio:
+    - 1
+    - 3
+    - 4
+    - 8
+  total_entities:
